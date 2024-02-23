@@ -1,2 +1,2 @@
-# CPM 📦
-Repository for [CPM](https://github.com/acf-patrick/cpm) configurations 📑
+# Craft 🏗️
+Repository for [Craft](https://github.com/acf-patrick/craft) configurations 📑
