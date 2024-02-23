@@ -1,0 +1,17 @@
+name: craft-hello-world
+tag: latest
+
+source:
+  type: git
+  url: https://github.com/acf-patrick/craft-hello-world
+
+build: gcc main.c -o hello_world
+
+run:
+  windows:
+    x86_64: |
+      echo running on windows
+      ./hello_world
+  linux: |
+    echo running on linux
+    ./hello_world
